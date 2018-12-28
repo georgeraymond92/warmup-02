@@ -1,0 +1,25 @@
+{
+  "name": "warmup-02",
+  "version": "1.0.0",
+  "description": "code warmup 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeraymond92/warmup-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeraymond92/warmup-02/issues"
+  },
+  "homepage": "https://github.com/georgeraymond92/warmup-02#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
